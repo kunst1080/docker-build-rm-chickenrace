@@ -70,3 +70,7 @@ $ export RMUSER=hoge
 That's ALL!
 
 Let's delete files with customized rm command and you tweet the rm result automatically.
+
+# hashtag
+
+[#rm_chickenrace](https://twitter.com/search?q=%23rm_chickenrace&src=typd)
